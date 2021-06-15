@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n /etc/password
+tail -n 11 /etc/password
