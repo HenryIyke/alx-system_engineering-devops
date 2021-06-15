@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type fd -empty | ls -1aNRl
+find . -type fd -empty | ls -1aNRl "\n"
