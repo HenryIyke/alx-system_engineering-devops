@@ -1,0 +1,1 @@
+*This directory contains sripts on shell variables and expansions*
